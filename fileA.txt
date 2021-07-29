@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 feature 1
+=======
+feature 1 
+feature 2 wip
+>>>>>>> 72a35e2 (feature 2 wip)
